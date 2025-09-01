@@ -64,7 +64,7 @@ const Hero = () => {
         {/* Desktop/Laptop video - new video for larger screens */}
         <iframe
           ref={desktopVideoRef}
-          src="https://www.youtube.com/embed/7tT9gl8Dr5Q?autoplay=1&mute=1&loop=1&playlist=7tT9gl8Dr5Q&controls=0&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&disablekb=1&fs=0&cc_load_policy=0&playsinline=1&origin=https://aesthetic-pavlova-a22a6a.netlify.app"
+          src="https://www.youtube.com/embed/rDXRlnVFlnY?autoplay=1&mute=1&loop=1&playlist=rDXRlnVFlnY&controls=0&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&disablekb=1&fs=0&cc_load_policy=0&playsinline=1&origin=https://aesthetic-pavlova-a22a6a.netlify.app"
           className="video-bg-vertical hidden md:block"
           allow="autoplay; encrypted-media; accelerometer; gyroscope; picture-in-picture"
           sandbox="allow-scripts allow-same-origin allow-presentation"
